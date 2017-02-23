@@ -1,7 +1,7 @@
 # VendingMachineSwift
 
-![VendingMachineSwift1](Images/VendingMachineSwift1.png)
-![VendingMachineSwift21](Images/VendingMachineSwift2.png)
-![VendingMachineSwift3](Images/VendingMachineSwift3.png)
-![VendingMachineSwift4](Images/VendingMachineSwift4.png)
+![](/images/VendingMachineSwift1.png)
+![](/images/VendingMachineSwift2.png)
+![](/images/VendingMachineSwift3.png)
+![](/images/VendingMachineSwift4.png)
 
