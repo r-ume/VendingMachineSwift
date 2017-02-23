@@ -1,7 +1,7 @@
 # VendingMachineSwift
 
-![WeatherChannel1](Image/VendingMachineSwift1.jpg)
-![WeatherChannel1](Image/VendingMachineSwift2.jpg)
-![WeatherChannel1](Image/VendingMachineSwift3.jpg)
-![WeatherChannel1](Image/VendingMachineSwift4.jpg)
+![VendingMachineSwift1](Images/VendingMachineSwift1.png)
+![VendingMachineSwift21](Images/VendingMachineSwift2.png)
+![VendingMachineSwift3](Images/VendingMachineSwift3.png)
+![VendingMachineSwift4](Images/VendingMachineSwift4.png)
 
